@@ -7,4 +7,4 @@ Associate Professor of Mathematics
 
 Interest:
 Differential Geometry, GR and
-Machine Learning
+Machine Learning.
