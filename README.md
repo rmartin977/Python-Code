@@ -6,5 +6,5 @@ Robert Martin
 Associate Professor of Mathematics
 
 Interest:
-Differential Geometry and GR
+Differential Geometry, GR and
 Machine Learning
