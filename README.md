@@ -1,6 +1,10 @@
-# hello-world
+# Hello-world
 My first repository
 This is information about myself
 
 Robert Martin
-Professor of Mathematics
+Associate Professor of Mathematics
+
+Interest:
+Differential Geometry and GR
+Machine Learning
