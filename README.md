@@ -2,11 +2,11 @@
 My first repository
 
 
-Robert Martin
+Robert Martin:
 Associate Professor of Mathematics
 
 Interest:
 Differential Geometry,
-General Relavtiviy,
+General Relavtivity,
 Digital Signal Processing,
-Machine Learning and neural nets
+Machine Learning and neural nets.
