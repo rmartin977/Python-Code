@@ -4,6 +4,6 @@ Associate Professor of Mathematics
 
 Interest:
 Differential Geometry,
-General Relavtivity,
+General Relativity,
 Digital Signal Processing,
 Machine Learning and neural nets.
