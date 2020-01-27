@@ -1,8 +1,5 @@
 # Robert Martin
-My first repository
 
-
-Robert Martin:
 Associate Professor of Mathematics
 
 Interest:
