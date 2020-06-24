@@ -1,6 +1,6 @@
 # Robert Martin
 
-Associate Professor of Mathematics
+## Associate Professor of Mathematics
 
 Interest:
 Differential Geometry,
@@ -9,4 +9,4 @@ Digital Signal Processing,
 Machine Learning and neural nets.
 
 
-$ u = x.T y$
+
